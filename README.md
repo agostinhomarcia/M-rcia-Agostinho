@@ -18,7 +18,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/buscador-de-cep?color=FF6347">
 
-  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
+  
 
   <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/buscador-de-cep?color=FF6347">
 
