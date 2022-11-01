@@ -1,11 +1,11 @@
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/amPb3fB2mP4aSvmCEN/giphy.gif" alt="potfolio" width="300"/>
+   <img src="https://media.giphy.com/media/qveyVgFrSoaJ4ic2zP/giphy.gif" alt="cep" width="300"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/ZCBEdy8UeaubfgA4cB/giphy.gif" alt="portfolio" width="180"/>
+   <img src="https://media.giphy.com/media/ZCBEdy8UeaubfgA4cB/giphy.gif" alt="cep" width="180"/>
 </p>
 
 
